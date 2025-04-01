@@ -60,17 +60,29 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ## GitHub Stats  
 
-  <a href="https://github.com/XavierRolex">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XavierRolex" />
-  </a>
-  
-  <a href="https://github.com/XavierRolex">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&layout=compact&langs_count=8&card_width=320" />
-  </a>
-  </br>  </br>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&" alt="XavierRolex" />
-  </p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&show_icons=true&locale=en&layout=compact"
+    alt="XavierRolex"
+  />
+</p>
+
+<p>
+  &nbsp;<img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&locale=en"
+    alt="XavierRolex"
+  />
+</p>
+
+<p>
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&"
+    alt="XavierRolex"
+  />
+</p>
 
 ---
 
