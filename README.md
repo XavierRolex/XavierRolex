@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Xavier Rolex</h1>
+ <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Xavier+Rolex+!;" />
+</h1>
 <h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
@@ -58,14 +60,17 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ## GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&theme=tokyonight&hide_border=true" width="47%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&theme=tokyonight&hide_border=true" width="50%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" width="48%" alt="Top Languages" />
-</p>
+  <a href="https://github.com/XavierRolex">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XavierRolex" />
+  </a>
+  
+  <a href="https://github.com/XavierRolex">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&layout=compact&langs_count=8&card_width=320" />
+  </a>
+  </br>  </br>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&" alt="XavierRolex" />
+  </p>
 
 ---
 
