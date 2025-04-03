@@ -1,5 +1,5 @@
- <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=5000&lines=Hi+There!+👋+I'm+Xavier+Rolex+!;" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=3000&color=36BCF7&lines=Hi+There!+%F0%9F%91%8B+I'm+Xavier+Rolex!" />
 </h1>
 <h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
@@ -9,7 +9,7 @@
 
 ---
 
-## About Me  
+## 🚀 About Me  
 
 <table>
 <tr>
@@ -17,10 +17,12 @@
 
 I specialize in building **scalable solutions** and solving complex technical problems. With a strong foundation in **software development**, I focus on writing **clean, efficient, and maintainable code**.  
 
-- Passionate about **backend development** and **cloud computing**  
-- Always exploring **new technologies** and **best coding practices**  
-- Currently enhancing my expertise in **Django & Cloud Computing**  
-- Open to **collaborations, learning, and networking**  
+- 🔥 Backend Development with **Django, Flask**  
+- ☁️ Cloud Computing (AWS, GCP)  
+- 💾 Databases: **MySQL, PostgreSQL**  
+- 🛠️ Tools: **Docker, Kubernetes, GitHub Actions**  
+- 🚀 Currently enhancing my expertise in **Django & Cloud Computing**  
+- 🤝 Open to **collaborations, learning, and networking**  
 
 </td>
 <td width="40%" align="center">
@@ -31,7 +33,7 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ---
 
-## Connect with Me  
+## 🌍 Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xavier-rolex" target="_blank">
@@ -39,6 +41,9 @@ I specialize in building **scalable solutions** and solving complex technical pr
   </a>
   <a href="mailto:xavierrolex7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+ <a href="https://kaggle.com/xavierrolex" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_xavierrolex_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -50,44 +55,32 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ---
 
-## Languages & Tools  
+## 🛠️ Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,php,django,js,html,css,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,php,django,flask,js,html,css,mysql,postgres,git,docker,kubernetes,aws,gcp" />
 </p>
 
 ---
 
-## GitHub Stats  
-
+<div align="center">
+  <h2>📊 My GitHub Stats 📊</h2>
+  
+  <a href="https://github.com/XavierRolex/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/XavierRolex/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  </a>
+  </br>  </br>
   <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&show_icons=true&locale=en&layout=compact"
-    alt="XavierRolex"
-  />
-</p>
-
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&locale=en"
-    alt="XavierRolex"
-  />
-</p>
-
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&"
-    alt="XavierRolex"
-  />
-</p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&theme=radical" alt="XavierRolex" />
+  </p>
+</div>
 
 ---
 
-## Quote to Live By  
+## 💡 Quote to Live By  
 
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House  
-</p>
+<h3 align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – Cory House</h3>
