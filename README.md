@@ -51,7 +51,11 @@ I specialize in building **scalable solutions** and solving complex technical pr
   <a href="https://youtube.com/c/SilentAssassin7">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a href="https://stackoverflow.com/users/30170618" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+  </a>
 </p>
+
 
 ---
 
