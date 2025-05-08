@@ -14,7 +14,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 My expertise lies in designing **scalable solutions** and excelling in the **end-to-end development** of applications, websites, and intelligent systems. Proficient in **Python and Django**, I have successfully developed web applications, **LLMs-based RAG chatbots**, and **ML-powered tools**. My primary focus is on writing **clean, efficient, and maintainable code** that solves real-world problems.
  
@@ -25,7 +25,7 @@ My expertise lies in designing **scalable solutions** and excelling in the **end
 - ✨ Fun fact: I love turning ideas into digital reality—even if it's at 2 A.M. with cold coffee and code bugs  
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
   <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
 </td>
 </tr>
