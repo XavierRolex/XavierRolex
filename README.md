@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=3000&color=36BCF7&lines=Hi+There!+%F0%9F%91%8B+I'm+Xavier+Rolex!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&pause=3000&color=36BCF7&lines=Hi+There!+%F0%9F%91%8B+I'm+Xavier+Rolex!" />
 </h1>
 <h3 align="center">Software Engineer | Problem Solver | Tech Enthusiast</h3>
 
@@ -16,14 +16,14 @@
 <tr>
 <td width="60%">
 
-I specialize in building **scalable solutions** and solving complex technical problems. With a strong foundation in **software development**, I focus on writing **clean, efficient, and maintainable code**.  
+My expertise lies in designing **scalable solutions** and excelling in the **end-to-end development** of applications, websites, and intelligent systems. Proficient in **Python and Django**, I have successfully developed web applications, **LLMs-based RAG chatbots**, and **ML-powered tools**. My primary focus is on writing **clean, efficient, and maintainable code** that solves real-world problems.
 
-- 🔥 Backend Development with **Django, Flask**  
-- ☁️ Cloud Computing (AWS, GCP)  
-- 💾 Databases: **MySQL, PostgreSQL**  
-- 🛠️ Tools: **Docker, Kubernetes, GitHub Actions**  
-- 🚀 Currently enhancing my expertise in **Django & Cloud Computing**  
-- 🤝 Open to **collaborations, learning, and networking**  
+- 🔭 I’m currently working on *My Academics*  
+- 🌱 I’m currently learning Deep Learning  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/XavierRolex?tab=repositories)  
+- 💬 Ask me about Web Development (Front-end, Back-end), Machine Learning, Unity Engine, RAG, and other tools I work with  
+- 📢 How to reach me: xavier.rolex@icloud.com 
+- ✨ Fun fact: I love turning ideas into digital reality—even if it's at 2 A.M. with cold coffee and code bugs  
 
 </td>
 <td width="40%" align="center">
@@ -36,7 +36,6 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 <div align="center">
   <h2>🌍 Connect with Me</h2>
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xavier-rolex" target="_blank">
@@ -59,7 +58,6 @@ I specialize in building **scalable solutions** and solving complex technical pr
   </a>
 </p>
 
-
 ---
 
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
@@ -80,8 +78,21 @@ I specialize in building **scalable solutions** and solving complex technical pr
 ---
 
 <div align="center">
-  <h2>📊 My GitHub Stats 📊</h2>
+  <h2>📌 Pinned Projects</h2>
+  <p>
+    <a href="https://github.com/XavierRolex/Machine-Learning-" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=Machine-Learning-&theme=radical&description=A+classification+model+that+predicts+whether+a+food+is+healthy+or+not" />
+    </a>
+    <a href="https://github.com/XavierRolex/CSE-299-project" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=CSE-299-project&theme=radical&description=A+RAG+LLM+chatbot+that+answers+queries+from+uploaded+PDFs" />
+    </a>
+  </p>
+</div>
 
+---
+
+<div align="center">
+  <h2>📊 My GitHub Stats 📊</h2>
   <table>
     <tr>
       <td>
@@ -96,17 +107,14 @@ I specialize in building **scalable solutions** and solving complex technical pr
       </td>
     </tr>
   </table>
-
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&theme=radical" alt="GitHub Streak" />
   </p>
 </div>
 
-
 ---
 
 <div align="center">
   <h2>💡 Quote to Live By</h2>
-
-
-<h3 align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – Cory House</h3>
+  <h3 align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – Cory House</h3>
+</div>
