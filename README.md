@@ -9,7 +9,8 @@
 
 ---
 
-## 🚀 About Me  
+<div align="center">
+  <h2>🚀 About Me </h2>
 
 <table>
 <tr>
@@ -33,7 +34,9 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ---
 
-## 🌍 Connect with Me  
+<div align="center">
+  <h2>🌍 Connect with Me</h2>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/xavier-rolex" target="_blank">
@@ -59,11 +62,20 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ---
 
-## 🛠️ Languages & Tools  
+<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<br/>
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,c,python,php,django,flask,js,html,css,mysql,postgres,git,docker,kubernetes,aws,gcp" />
-</p>
+<!-- 🧑‍💻 Languages -->
+<img src="https://skillicons.dev/icons?i=html,css,java,python,c,cpp,php" /><br>
+
+<!-- 📚 Libraries / Frameworks -->
+<img src="https://skillicons.dev/icons?i=react,vue,firebase,django,flask" /><br>
+
+<!-- 🛠️ Tools / Technologies -->
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,gcp,unity,godot,photoshop,figma" />
+
+</div>
 
 ---
 
@@ -93,6 +105,8 @@ I specialize in building **scalable solutions** and solving complex technical pr
 
 ---
 
-## 💡 Quote to Live By  
+<div align="center">
+  <h2>💡 Quote to Live By</h2>
+
 
 <h3 align="center"><em>"Code is like humor. When you have to explain it, it’s bad."</em> – Cory House</h3>
