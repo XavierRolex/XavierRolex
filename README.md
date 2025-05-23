@@ -78,37 +78,23 @@ My expertise lies in designing **scalable solutions** and excelling in the **end
 ---
 
 <div align="center">
-  <h2>📌 Pinned Projects</h2>
-  <p>
-    <a href="https://github.com/XavierRolex/Fake_News_Detector" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=Fake_News_Detector&theme=tokyonight&description=FastAPI+ML+service+for+real-time+fake+news+detection" />
-    </a>
-    <a href="https://github.com/XavierRolex/CSE-299-project" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=CSE-299-project&theme=tokyonight&description=RAG+LLM+chatbot+for+answering+banking-related+queries" />
-    </a>
-  </p>
-</div>
-
----
-
-<div align="center">
   <h2>📊 My GitHub Stats 📊</h2>
   <table>
     <tr>
       <td>
         <a href="https://github.com/XavierRolex/github-readme-stats">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&theme=radical" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XavierRolex&show_icons=true&theme=github_dark" />
         </a>
       </td>
       <td>
         <a href="https://github.com/XavierRolex/convoychat">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&layout=compact&langs_count=8&theme=radical" />
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=XavierRolex&layout=compact&langs_count=8&theme=github_dark" />
         </a>
       </td>
     </tr>
   </table>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=XavierRolex&theme=github_dark" alt="GitHub Streak" />
   </p>
 </div>
 
