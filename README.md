@@ -16,17 +16,18 @@
 <tr>
 <td width="60%">
 
-My expertise lies in designing **scalable solutions** and excelling in the **end-to-end development** of applications, websites, and intelligent systems. Proficient in **Python and Django**, I have successfully developed web applications, **LLMs-based RAG chatbots**, and **ML-powered tools**. My primary focus is on writing **clean, efficient, and maintainable code** that solves real-world problems.
- 
-- 🌱 I’m currently learning **Deep Learning**
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/XavierRolex?tab=repositories)  
-- 💬 Ask me about Web Development (Front-end, Back-end), Machine Learning, Unity Engine, RAG, and other tools I work with  
-- 📢 How to reach me: xavier.rolex@icloud.com 
-- ✨ Fun fact: I love turning ideas into digital reality—even if it's at 2 A.M. with cold coffee and code bugs  
+My expertise lies in designing **scalable solutions** and excelling in the **end-to-end development** of applications, websites, and intelligent systems. Proficient in **Python and Django**, I have successfully developed web applications, **LLMs-based RAG chatbots**, and **ML-powered tools**. I recently completed a **professional fake news detection system** using FastAPI, Docker, CI/CD, and cloud deployment.
+
+- 🌱 Currently learning **Deep Learning**
+- ⚙️ Familiar with full dev lifecycle from concept through deployment
+- 🧠 I love solving complex problems using **AI and automation**
+- 💬 Ask me about Web Dev, Machine Learning, RAG, CI/CD, APIs, Docker, Deployment, and more!
+- 📢 Reach me: xavier.rolex@icloud.com
+- ☕ Fun fact: I love turning ideas into digital reality—even if it's at 2 A.M. with cold coffee and code bugs  
 
 </td>
 <td width="40%" align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="300"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="380"/>
 </td>
 </tr>
 </table>
@@ -67,10 +68,10 @@ My expertise lies in designing **scalable solutions** and excelling in the **end
 <img src="https://skillicons.dev/icons?i=html,css,java,python,c,cpp,php" /><br>
 
 <!-- 📚 Libraries / Frameworks -->
-<img src="https://skillicons.dev/icons?i=react,vue,firebase,django,flask" /><br>
+<img src="https://skillicons.dev/icons?i=react,vue,firebase,django,flask,fastapi" /><br>
 
 <!-- 🛠️ Tools / Technologies -->
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,gcp,unity,godot,photoshop,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,docker,aws,gcp,unity,godot,photoshop,figma,githubactions,pytest" />
 
 </div>
 
@@ -79,11 +80,11 @@ My expertise lies in designing **scalable solutions** and excelling in the **end
 <div align="center">
   <h2>📌 Pinned Projects</h2>
   <p>
-    <a href="https://github.com/XavierRolex/Machine-Learning-" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=Machine-Learning-&theme=radical&description=A+classification+model+that+predicts+whether+a+food+is+healthy+or+not" />
+    <a href="https://github.com/XavierRolex/Fake_News_Detector" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=Fake_News_Detector&theme=tokyonight&description=FastAPI+ML+service+for+real-time+fake+news+detection" />
     </a>
     <a href="https://github.com/XavierRolex/CSE-299-project" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=CSE-299-project&theme=radical&description=A+RAG+LLM+chatbot+that+answers+queries+from+uploaded+PDFs" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XavierRolex&repo=CSE-299-project&theme=tokyonight&description=RAG+LLM+chatbot+for+answering+banking-related+queries" />
     </a>
   </p>
 </div>
